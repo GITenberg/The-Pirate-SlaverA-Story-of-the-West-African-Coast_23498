@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Overend, W. H. (William Heysham)
     - Overend, W.H.
-    birthdate: &id001 1851
+    birthdate: 1851
     deathdate: 1898
     gutenberg_agent_id: '9706'
     url: http://www.gutenberg.org/2009/agents/9706
@@ -17,7 +17,7 @@ creator:
   author:
     agent_name: Collingwood, Harry
     alias: Lancaster, William Joseph Cosens
-    birthdate: *id001
+    birthdate: 1851
     deathdate: 1922
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
@@ -25,6 +25,8 @@ description: If you're hopelessly landlocked and pining for some high-seas adven
   dive into The Pirate Slaver by Harry Collingwood. Readers of all ages will relish
   this action-packed tale that pits a British warship against the ingenious and bloodthirsty
   pirates who troll the waters off the coast of Africa.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23498#The-Pirate-SlaverA-Story-of-the-West-African-Coast
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2007-11-15'
 gutenberg_type: Text
