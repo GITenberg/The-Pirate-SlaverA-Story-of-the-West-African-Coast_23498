@@ -1,0 +1,48 @@
+_repo: The-Pirate-SlaverA-Story-of-the-West-African-Coast_23498
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Overend, William Heysham
+    aliases:
+    - Overend, W. H. (William Heysham)
+    - Overend, W.H.
+    birthdate: &id001 1851
+    deathdate: 1898
+    gutenberg_agent_id: '9706'
+    url: http://www.gutenberg.org/2009/agents/9706
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: *id001
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: If you're hopelessly landlocked and pining for some high-seas adventure,
+  dive into The Pirate Slaver by Harry Collingwood. Readers of all ages will relish
+  this action-packed tale that pits a British warship against the ingenious and bloodthirsty
+  pirates who troll the waters off the coast of Africa.
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Africa, West -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Slaves -- Juvenile fiction'
+title: 'The Pirate Slaver: A Story of the West African Coast'
+url: http://www.gutenberg.org/ebooks/23498
