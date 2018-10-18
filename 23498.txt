@@ -367,7 +367,7 @@ the scene which surrounded us after we had let go our anchor and furled
 our canvas.  The sea-breeze was piping strong from the westward, while
 the tide was ebbing down the creek from the northward, and under these
 combined influences the _Barracouta_ was riding with her head about
-north--west.  Banana Peninsula lay ahead of us, trending away along our
+north-west.  Banana Peninsula lay ahead of us, trending away along our
 larboard beam and slightly away from us to the southward for about
 half-a-mile, where it terminated in a sandy beach bordered by a broad
 patch of smooth water, athwart which marched an endless line of mimic
@@ -968,7 +968,7 @@ we had scarcely left the ship when it came on to rain with a fury that
 rendered the preservation of our ammunition from damage a serious
 difficulty and a source of keen anxiety.  Fortunately for us, we reached
 the mouth of the creek a few minutes before the rain began to fall, but
-for which circumstance we should, have met with the utmost difficulty in
+for which circumstance we should have met with the utmost difficulty in
 discovering the entrance, and might possibly have lost a considerable
 amount of valuable time in the search for it.  Even as it was, so
 intense was the darkness that, although the creek was only some two
@@ -2034,7 +2034,7 @@ cultivating ever since he had known that he was to have the command of
 the schooner--as he stepped out on deck at eight bells on the following
 morning, attired in white drill jacket and long flowing trousers of the
 same, girt about the waist with a gaudy silken sash glowing in all the
-colours of the rain bow, the costume being topped off with a
+colours of the rainbow, the costume being topped off with a
 broad-brimmed Panama hat swathed round with a white puggaree.  He was
 indeed the beau-ideal of a dandy pirate skipper, and I was not a very
 bad imitation of him--barring the whiskers.  The only things perhaps
@@ -2309,7 +2309,7 @@ made our way up the fore-rigging to the topsail-yard, on to which we
 swung ourselves at the same moment.  From this elevated view-point the
 upper half of the stranger's topmasts and all above were just visible
 clear of the horizon; and, bringing our glasses to bear upon her, we
-made her out to be a barque-rigged vessel under single--reefed topsails,
+made her out to be a barque-rigged vessel under single-reefed topsails,
 courses, jib, fore and main-topmast-staysails, and spanker; her yards,
 which were pretty nearly square on to us, showed a quite unusual amount
 of spread for a merchant vessel, and the rapidity with which she altered
@@ -2641,7 +2641,7 @@ I have said that we were doing quite as well as, if not a trifle better
 than, the barque; for while we held our own with her, so that she was
 unable to appreciably alter her bearing from us, we were steadily edging
 up toward her, our gain in this respect being so great that ere the next
-manoeuvre was at tempted we had risen her high enough to get a momentary
+manoeuvre was attempted we had risen her high enough to get a momentary
 glimpse of the whole length of her rail when she floated up on the crest
 of a sea.  It was clear, therefore, that the barque had gained nothing
 by running off the wind; on the contrary, we had neared her fully a
@@ -4304,10 +4304,10 @@ hitherto escaped my notice, and upon it stood a small silver hand-bell,
 quaint of shape, and elegantly adorned with _repousse_ work.  With
 considerable pain and giddiness I contrived to turn my body far enough
 round to seize the bell and ring it; in instant response to which the
-state-room door opened--revealing a glimpse of a small but elegantly--
-furnished cabin--and a young mustee lad, clad only in a white shirt
-thrown open at the neck, and white drill trousers girt to his slender
-figure by a crimson sash, entered, and demanded in Spanish--
+state-room door opened--revealing a glimpse of a small but
+elegantly-furnished cabin--and a young mustee lad, clad only in a white
+shirt thrown open at the neck, and white drill trousers girt to his
+slender figure by a crimson sash, entered, and demanded in Spanish--
 
 "Can I do anything for you, senor?"
 
@@ -5267,7 +5267,7 @@ question of inconvenience; in reply to which he stated, with a brutal
 laugh, that they were, one and all, a lazy set of worthless rascals, of
 whom he should have rid himself in any case on his arrival in Havana.
 
-However, be his motive what it might, he cracked, on every stitch of
+However, be his motive what it might, he cracked on every stitch of
 canvas that the brigantine would bear, as soon as the strength of the
 squall had sufficiently abated to permit of his bringing her to the
 wind, making sail from time to time as the wind further dwindled, until
@@ -7936,8 +7936,8 @@ I heard the steward begging piteously not to be locked up again; for
 although the fellow had probably not understood a single word of what
 Jose had said, he had sense enough to know that the two ruffians before
 him had scuttled the ship, and that if locked up in his pantry again he
-would probably drown there, like a rat in a trap.  His entreaties, how
-ever, were of course unavailing with two men who knew not the meaning of
+would probably drown there, like a rat in a trap.  His entreaties, however,
+were of course unavailing with two men who knew not the meaning of
 mercy; there was a Spanish oath or two, the sound of a scuffle, mingled
 with further cries of distress from the steward, the slamming of a door,
 the sharp click of a lock; and a moment later Jose and his companion
@@ -8586,7 +8586,7 @@ from here, appear to be a very pleasant lot of people."
 Upon this hint I led the way to the poop, where by this time nearly the
 entire cuddy party had assembled, and introduced my companions in due
 form, and in a few minutes Young and Freddy were each surrounded by a
-large patty, Master Freddy's, I noticed, being mainly composed of the
+large party, Master Freddy's, I noticed, being mainly composed of the
 younger members of the gentler sex, who petted and made much of the
 juvenile warrior, to that young gentleman's entire content.
 
